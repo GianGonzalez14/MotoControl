@@ -1,0 +1,13 @@
+{
+  "name": "motocontrol",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MotoControl - MVP académico para gestión de talleres de motocicletas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
